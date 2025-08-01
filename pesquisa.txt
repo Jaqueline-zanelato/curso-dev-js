@@ -6,3 +6,5 @@ enquanto com frameworks como React, Vue e Angular, consigo desenvolver interface
  A comunidade em torno do JavaScript é gigantesca, o que significa que sempre posso contar com uma
 ampla variedade de bibliotecas e ferramentas disponíveis no npm, o maior repositório de pacotes open-source.
 Isso facilita bastante o desenvolvimento, economizando tempo e esforço.
+
+Jaqueline Zanelato
