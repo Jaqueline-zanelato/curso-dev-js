@@ -1,0 +1,17 @@
+Comandos utilizados
+
+atividade 1:
+
+git init
+git config --global user.name "Jaqueline zanelato".
+git config --global user.email "zanelato.dev@gmail.com"
+
+git branch -M main 
+git add .
+git commit -m "Primeiro commit da aula"
+git branch melhorias-estrutura
+git remote add origin https://github.com/Jaqueline-zanelato/curso-dev-js.git
+git push origin main
+git add .
+git commit -m "Atualização do README.me"
+git push origin main
