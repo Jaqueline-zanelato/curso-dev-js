@@ -1,0 +1,238 @@
+Microsoft Windows [versão 10.0.26100.4652]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\zanel>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel
+
+29/07/2025  19:03    <DIR>          .
+17/02/2025  23:50    <DIR>          ..
+18/02/2025  00:33    <DIR>          .idlerc
+17/02/2025  20:59                11 .node_repl_history
+29/12/2024  21:50    <DIR>          .vscode
+30/12/2024  11:45    <DIR>          ansel
+29/12/2024  15:45    <DIR>          Contacts
+30/12/2024  10:55    <DIR>          CrossDevice
+29/07/2025  19:18    <DIR>          Desktop
+25/01/2025  17:56       114.000.760 DiscordSetup.exe
+29/12/2024  15:54    <DIR>          Documents
+31/01/2025  00:01                51 Donate with PayPal.url
+28/07/2025  19:44    <DIR>          Downloads
+29/12/2024  15:45    <DIR>          Favorites
+29/12/2024  15:45    <DIR>          Links
+08/05/2025  17:24    <DIR>          Microsoft
+29/12/2024  15:45    <DIR>          Music
+01/07/2025  21:24    <DIR>          OneDrive
+31/01/2025  00:01             3.018 ReadMe.txt
+29/12/2024  22:20    <DIR>          Saved Games
+10/01/2025  23:42    <DIR>          Searches
+30/12/2024  10:45    <DIR>          Videos
+               4 arquivo(s)    114.003.840 bytes
+              18 pasta(s)   266.229.612.544 bytes disponíveis
+
+C:\Users\zanel>cd OneDrive
+
+C:\Users\zanel\OneDrive>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel\OneDrive
+
+01/07/2025  21:24    <DIR>          .
+29/07/2025  19:03    <DIR>          ..
+29/12/2024  15:54    <DIR>          Apps
+26/05/2025  16:06    <DIR>          Attachments
+10/02/2018  23:15               177 Bloco de anotações de jaqueline.url
+01/07/2025  21:24             1.164 Cofre Pessoal.lnk
+28/07/2025  20:02    <DIR>          Documents
+26/05/2025  15:17    <DIR>          dowload
+09/06/2022  23:31           (2.258) Google Chrome.lnk
+26/05/2025  15:03    <DIR>          Importações
+26/05/2025  15:15    <DIR>          PDF
+30/06/2025  20:34    <DIR>          Pictures
+29/12/2024  15:54    <DIR>          Verificações
+29/07/2025  19:30    <DIR>          Área de Trabalho
+               3 arquivo(s)          3.599 bytes
+              11 pasta(s)   266.229.608.448 bytes disponíveis
+
+C:\Users\zanel\OneDrive>cd "Área de Trabalho"
+
+C:\Users\zanel\OneDrive\Área de Trabalho>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel\OneDrive\Área de Trabalho
+
+29/07/2025  19:30    <DIR>          .
+01/07/2025  21:24    <DIR>          ..
+22/07/2025  20:26    <DIR>          CURSO EM VIDEO
+17/07/2025  19:02             2.253 Discord.lnk
+05/02/2025  15:41               223 It Takes Two.url
+29/12/2024  22:20               222 Kingdom Come Deliverance.url
+29/12/2024  21:49             1.410 Visual Studio Code.lnk
+28/07/2025  19:45               902 µTorrent.lnk
+               5 arquivo(s)          5.010 bytes
+               3 pasta(s)   266.229.424.128 bytes disponíveis
+
+C:\Users\zanel\OneDrive\Área de Trabalho>md projeto_responsivo
+
+C:\Users\zanel\OneDrive\Área de Trabalho>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel\OneDrive\Área de Trabalho
+
+29/07/2025  19:35    <DIR>          .
+01/07/2025  21:24    <DIR>          ..
+22/07/2025  20:26    <DIR>          CURSO EM VIDEO
+17/07/2025  19:02             2.253 Discord.lnk
+05/02/2025  15:41               223 It Takes Two.url
+29/12/2024  22:20               222 Kingdom Come Deliverance.url
+29/07/2025  19:35    <DIR>          projeto_responsivo
+29/12/2024  21:49             1.410 Visual Studio Code.lnk
+28/07/2025  19:45               902 µTorrent.lnk
+               5 arquivo(s)          5.010 bytes
+               4 pasta(s)   266.233.810.944 bytes disponíveis
+
+C:\Users\zanel\OneDrive\Área de Trabalho>cd projeto_responsivo
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo>mkdir public
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo>mkdir src
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo>mkdir docs
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo
+
+29/07/2025  19:36    <DIR>          .
+29/07/2025  19:35    <DIR>          ..
+29/07/2025  19:36    <DIR>          docs
+29/07/2025  19:36    <DIR>          public
+29/07/2025  19:36    <DIR>          src
+               0 arquivo(s)              0 bytes
+               5 pasta(s)   266.233.548.800 bytes disponíveis
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo>cd public
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>mkdir html
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>mkdir css
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>mkdir js
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>mkdir media
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public
+
+29/07/2025  19:37    <DIR>          .
+29/07/2025  19:36    <DIR>          ..
+29/07/2025  19:37    <DIR>          css
+29/07/2025  19:37    <DIR>          html
+29/07/2025  19:37    <DIR>          js
+29/07/2025  19:37    <DIR>          media
+               0 arquivo(s)              0 bytes
+               6 pasta(s)   266.232.782.848 bytes disponíveis
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>cd media
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\media>cd ..
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>cd html
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\html>echo Projeto responsivo > home.html
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\html>cd ..
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>cd css
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\css>echo body { margin: 0; padding: 0; background-color: lightgray; } > theme.css
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\css>cd ..
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>cd media
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\media>mdkir imagens
+'mdkir' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\media>mdkdir imagens
+'mdkdir' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\media>mkdir imagens
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\media>mkdir fontes
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\media>cd ..
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>cd js
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\js>echo console.log("Site responsivo pronto!"); > responsivo.js
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\js>echo console.log("Utilitálios carregados!"); > utils.js
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\js>rename utils.js helpers.js
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\js>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\js
+
+29/07/2025  19:56    <DIR>          .
+29/07/2025  19:37    <DIR>          ..
+29/07/2025  19:53                42 helpers.js
+29/07/2025  19:52                42 responsivo.js
+               2 arquivo(s)             84 bytes
+               2 pasta(s)   266.219.520.000 bytes disponíveis
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\js>cd ..
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public
+
+29/07/2025  19:37    <DIR>          .
+29/07/2025  19:36    <DIR>          ..
+29/07/2025  19:49    <DIR>          css
+29/07/2025  19:42    <DIR>          html
+29/07/2025  19:56    <DIR>          js
+29/07/2025  19:50    <DIR>          media
+               0 arquivo(s)              0 bytes
+               6 pasta(s)   266.219.081.728 bytes disponíveis
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>cd css
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\css>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é E6D7-688B
+
+ Pasta de C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\css
+
+29/07/2025  19:49    <DIR>          .
+29/07/2025  19:37    <DIR>          ..
+29/07/2025  19:49                64 theme.css
+               1 arquivo(s)             64 bytes
+               2 pasta(s)   266.219.048.960 bytes disponíveis
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\css>del theme.css
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\css>cd ..
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public>cd html
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\html>notepad home.html
+
+C:\Users\zanel\OneDrive\Área de Trabalho\projeto_responsivo\public\html>
