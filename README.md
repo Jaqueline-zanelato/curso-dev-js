@@ -1,7 +1,7 @@
 **Estrutura do Repositório - Curso Dev JS**  
----
+
 Este repositório será usado ao longo de todo o curso de Desenvolvimento JavaScript. Nele, vou organizar todas as atividades que forem solicitadas pelo professor, como exercícios individuais, atividades em grupo, pesquisas e materiais das aulas.
----
+
 
 ***Estrutura de Pastas:***
 
